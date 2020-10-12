@@ -3,7 +3,6 @@
   border: 1px solid #e3e3e3;
 }
 
-/* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
 html {
   position: relative;
   min-height: 100%;
@@ -28,4 +27,16 @@ body {
 #footer p {
   margin: 0;
   font-size: 16px;
+}
+
+.blue {
+  stroke: orange;
+}
+
+.green {
+  stroke: green;
+}
+
+.center {
+  text-align: center;
 }
