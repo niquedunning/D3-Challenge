@@ -1,4 +1,4 @@
-Access URLhttps://niquedunning.github.io/D3-Challenge/
+Access URL : https://niquedunning.github.io/D3-Challenge/
 
 # D3 Homework - Data Journalism and D3
 
